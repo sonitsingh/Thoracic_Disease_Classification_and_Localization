@@ -22,3 +22,5 @@ List of papers relevant to detect and localize various thoracic diseases in Ches
 [10] [Learning to recognize Abnormalities in Chest X-Rays with Location-Aware Dense Networks](https://arxiv.org/pdf/1803.04565.pdf)
 
 [11] [Weakly Supervised Medical Diagnosis and Localization from Multiple Resolutions](https://arxiv.org/abs/1803.07703)
+
+[12] [Deep Generative Classifiers for Thoracic Disease Diagnosis with Chest X-ray Images](https://arxiv.org/abs/1809.07436)
