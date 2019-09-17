@@ -1,5 +1,5 @@
 # Thoracic_Disease_Classification_and_Localization
-List of papers relevant to detect and localize various thoracic diseases in Chest X-rays
+List of papers relevant to detection and localization of thoracic diseases in Chest X-rays
 
 [1] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.02315)
 
